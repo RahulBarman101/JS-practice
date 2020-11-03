@@ -1,0 +1,46 @@
+.container-1 {
+    padding-top: 5;
+    padding-left: 5;
+    margin: 0 auto;
+    background: #2B2D2F;
+    color: white;
+    /* width: 90%; */
+}
+
+
+/* .form-inline {
+    float: left;
+    padding: 10;
+    margin: 10;
+} */
+
+.btn {
+    margin: 20;
+}
+
+.haha {
+    height: 500;
+    width: 500;
+}
+
+.write_window {
+    padding: 10;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5rem;
+}
+
+.div_todo {
+    margin: 0.5rem auto;
+    color: black;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+}
+
+.li_item {
+    list-style: none;
+}

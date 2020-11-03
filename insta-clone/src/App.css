@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  font-weight: normal;
+  background-color: #FAFAFA;
+}
+
+.App {
+  height: 100vh;
+  font-weight: normal;
+  margin: auto;
+}
+
+.app__header{
+  padding: 10px;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+}
+
+.app__headerImage {
+  /* contains the aspect ratio */
+  object-fit: contain;    
+  width: 120px;
+  height: 50px;
+}

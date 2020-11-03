@@ -1,0 +1,8 @@
+# node module
+node_modules
+
+# practice folders
+first-react-app
+
+# json files
+package-lock.json
